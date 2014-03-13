@@ -1,4 +1,4 @@
-dropwizard-helloworld
+deepthi--dropwizard-helloworld
 =====================
 
 $ mvn clean package
