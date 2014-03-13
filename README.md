@@ -1,4 +1,4 @@
-CMPE 273 shivadeepthi--dropwizard-helloworld
+CMPE 273-- shivadeepthi--dropwizard-helloworld
 =====================
 
 $ mvn clean package
